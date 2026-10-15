@@ -6,7 +6,7 @@ This repository contains R scripts supporting the bulk RNA-sequencing (bulk RNA-
 
 The analyses use data from the **Religious Orders Study and Rush Memory and Aging Project (ROSMAP)** to investigate transcriptomic signatures associated with Alzheimer disease neuropathology, microglial states, and cognitive resilience. The single-nucleus workflow integrates two ROSMAP snRNA-seq datasets and focuses on immune-cell and microglial heterogeneity. The bulk workflow includes differential gene expression and the identification of a CD68-associated co-expression module.
 
-**Important:** This repository contains analysis code only. **Individual-level ROSMAP data, expression matrices, clinical metadata, and derived participant-level files are not provided.** Access to the underlying ROSMAP data requires the applicable authorization and **data-use agreement (DUA) with Rush University / the Rush Alzheimer's Disease Center**. See [Data availability and access](#data-availability-and-access).
+**Important:** This repository contains analysis code only. **Individual-level ROSMAP data, expression matrices, clinical metadata, and derived participant-level files are not provided.** Access to the underlying ROSMAP data requires the applicable authorization and **data-use agreement (DUA) with Rush University / the Rush Alzheimer's Disease Center**. 
 
 ## Repository files
 
